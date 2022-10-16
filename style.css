@@ -1,0 +1,79 @@
+
+/* .wrapper {
+    position: relative;
+} */
+
+.rec {
+    display: inline-block;
+    background: black;
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    justify-content: center;
+}
+
+.yellow {
+
+    
+    display: inline-block;
+    background: yellow;
+    width: 50px;
+    height: 150px ;
+  
+    border-radius: 8px;
+}
+
+
+ 
+  .one {
+    
+   
+    position: absolute;
+   top: 40px;
+   left: 1%;
+  
+
+}
+ .two {
+   
+    position: absolute;
+   top: 40px;
+   left: 15%;
+   
+}
+.three {
+    
+    position: absolute;
+   top: 40px;
+   left: 29%;
+  
+}
+.four {
+  
+    position: absolute;
+   top: 40px;
+   left: 43%;
+ 
+}
+.five {
+    
+    position: absolute;
+   top: 40px;
+   left: 57%;
+  
+}
+.six {
+  
+    position: absolute;
+   top: 40px;
+   left: 71%;
+ 
+}
+.seven {
+ 
+    position: absolute;
+   top: 40px;
+   left: 85%;
+
+}    */
